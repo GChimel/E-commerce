@@ -1,11 +1,11 @@
-# IGNITE SHOP
+# E-commerce sando Stripe
 
 Este projeto é uma aplicação desenvolvida com o framework ***Next.js***, utilizando o ***StitchesJS*** para estilização e o backend ***Stripe*** para integração de pagamentos
 
 ## Principais Conceitos Abordados
 
 ### SSR (Server Side Rendering)
-O IGNITE SHOP utiliza Server Side Rendering para renderizar páginas dinâmicas no servidor, proporcionando uma experiência de carregamento rápido e melhorando a indexação nos motores de busca.
+O site utiliza Server Side Rendering para renderizar páginas dinâmicas no servidor, proporcionando uma experiência de carregamento rápido e melhorando a indexação nos motores de busca.
 
 ### SSG (Static Site Generation)
 Além do SSR, o projeto implementa Static Site Generation, gerando páginas estáticas no momento da construção do aplicativo, o que resulta em um desempenho excepcional e uma experiência de usuário otimizada.
@@ -20,4 +20,4 @@ Além do SSR, o projeto implementa Static Site Generation, gerando páginas est�
 
 <hr>
 
-Este projeto é uma demonstração do poder e da versatilidade do Next.js, combinando uma arquitetura robusta com ferramentas modernas de desenvolvimento web para criar uma experiência de compra online fluida e eficiente. Seja bem-vindo ao IGNITE SHOP! 🚀
+Este projeto é uma demonstração do poder e da versatilidade do Next.js, combinando uma arquitetura robusta com ferramentas modernas de desenvolvimento web para criar uma experiência de compra online fluida e eficiente! 🚀
