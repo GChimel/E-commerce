@@ -1,4 +1,4 @@
-# E-commerce sando Stripe
+# E-commerce usando Stripe
 
 Este projeto é uma aplicação desenvolvida com o framework ***Next.js***, utilizando o ***StitchesJS*** para estilização e o backend ***Stripe*** para integração de pagamentos
 
